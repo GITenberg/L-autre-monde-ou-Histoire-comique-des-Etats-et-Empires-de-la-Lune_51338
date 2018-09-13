@@ -1,0 +1,44 @@
+_repo: L-autre-monde-ou-Histoire-comique-des-Etats-et-Empires-de-la-Lune_51338
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Robida, Albert
+    alias: Robida, A. (Albert)
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '1043'
+    url: http://www.gutenberg.org/2009/agents/1043
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Robida
+creator:
+  author:
+    agent_name: Cyrano de Bergerac
+    aliases:
+    - De Bergerac, Cyrano
+    - Bergerac, Savinien Cyrano de
+    - Bergerac, Cyrano de
+    birthdate: 1619
+    deathdate: 1655
+    gutenberg_agent_id: '43842'
+    url: http://www.gutenberg.org/2009/agents/43842
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Illustrateurs
+- FR Humour
+- FR Science fiction
+gutenberg_issued: '2016-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51338'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, French'
+- !lcsh 'Space flight to the moon -- Fiction'
+- !lcsh 'Moon -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: L'autre monde; ou, Histoire comique des Etats et Empires de la Lune
+url: http://www.gutenberg.org/ebooks/51338
